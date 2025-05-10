@@ -26,7 +26,7 @@
 1. Medical Imaging
 1. Digital signal processing
 
-
+```
 nazwarepozytorium/
 ├── data-science/
 │   ├── projekt1/
@@ -40,3 +40,4 @@ nazwarepozytorium/
 └── gui-applications/
     ├── app1/
     └── app2/
+```
