@@ -25,3 +25,18 @@
 1. Fundamentals of programming
 1. Medical Imaging
 1. Digital signal processing
+
+
+nazwarepozytorium/
+├── data-science/
+│   ├── projekt1/
+│   └── projekt2/
+├── image-processing/
+│   ├── projekt3/
+│   └── projekt4/
+├── visualization-projects/
+│   ├── 2d-viz/
+│   └── 3d-viz/
+└── gui-applications/
+    ├── app1/
+    └── app2/
