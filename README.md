@@ -1,5 +1,32 @@
 # project-archive
 
+## Skills
+### Programming Languages
+- **Python** (Advanced), **C++**, Matlab, R, Bash
+
+### Computer Vision & Medical Imaging
+- **Core**: ITK, OpenCV, ITK-SNAP;
+- **Visualization**: VTK, OpenGL, Paraview;
+-   **Formats**: DICOM, NIfTI
+
+### AI & Machine Learning
+- **Deep Learning**: PyTorch, FastAI, Monai;
+- **ML Libraries**: scikit-learn;
+- **Data Science**: Pandas, NumPy, Scipy;
+- **Visualization**: Matplotlib, Seaborn, Plotly, Dash
+
+### Development Tools
+- **GUI**: Qt, WxWidgets, Tkinter;
+- **DevOps**: Git, Docker, Linux;
+- **Documentation**: LaTeX
+
+## Interests
+- Electronics (embedded systems, robotics, FPGAs)
+- Computer Vision & 3D Visualization
+- Medical Image Analysis
+- IoT & Smart Home Technology
+
+
 # Selected projects:
 1. [Geometric modeling of blood vessels](https://github.com/marekkoc/blood-vessels-modeling)
    - [3D image texture analysis of simulated and real-world vascular trees](https://github.com/marekkoc/vascular-tree-3D-texture-analysis)
